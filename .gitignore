@@ -1,4 +1,5 @@
 # Project specific
+learnopengl_m1
 .idea/*
 cmake-build-debug/*
 
